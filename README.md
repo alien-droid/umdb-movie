@@ -1,4 +1,5 @@
 🎬 UMDb - Movie Explorer
+---
 A simple and interactive movie website built with React that allows users to search for movies and browse trending films using the TMDb API and Appwrite database.
 
 ---
